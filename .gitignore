@@ -8,3 +8,8 @@ practice_ing/RPA/telegram.txt
 머신러닝_딥러닝/human_activity.zip
 *.h5
 *.zip
+*.pkl
+머신러닝_딥러닝/lm.krs/saved_model.pb
+*.pb
+머신러닝_딥러닝/lm.krs/variables
+*.npz
